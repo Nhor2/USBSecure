@@ -1,1 +1,12 @@
-*
+C:\Users\lordm\source\repos2\USBSecure\bin\Debug\USBSecure.exe.config
+C:\Users\lordm\source\repos2\USBSecure\bin\Debug\USBSecure.exe
+C:\Users\lordm\source\repos2\USBSecure\bin\Debug\USBSecure.pdb
+C:\Users\lordm\source\repos2\USBSecure\bin\Debug\USBSecure.xml
+C:\Users\lordm\source\repos2\USBSecure\obj\Debug\USBSecure.vbproj.AssemblyReference.cache
+C:\Users\lordm\source\repos2\USBSecure\obj\Debug\USBSecure.Form1.resources
+C:\Users\lordm\source\repos2\USBSecure\obj\Debug\USBSecure.Resources.resources
+C:\Users\lordm\source\repos2\USBSecure\obj\Debug\USBSecure.vbproj.GenerateResource.cache
+C:\Users\lordm\source\repos2\USBSecure\obj\Debug\USBSecure.vbproj.CoreCompileInputs.cache
+C:\Users\lordm\source\repos2\USBSecure\obj\Debug\USBSecure.exe
+C:\Users\lordm\source\repos2\USBSecure\obj\Debug\USBSecure.xml
+C:\Users\lordm\source\repos2\USBSecure\obj\Debug\USBSecure.pdb
